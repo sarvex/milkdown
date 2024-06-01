@@ -32,13 +32,13 @@
   },
   "dependencies": {
     "@milkdown/exception": "workspace:*",
-    "@types/mdast": "^3.0.10",
-    "@types/unist": "^2.0.6",
-    "remark": "^14.0.1",
-    "remark-parse": "^10.0.1",
-    "remark-stringify": "^10.0.2",
+    "@types/mdast": "^4.0.0",
+    "@types/unist": "^3.0.0",
+    "remark": "^15.0.0",
+    "remark-parse": "^11.0.0",
+    "remark-stringify": "^11.0.0",
     "tslib": "^2.5.0",
-    "unified": "^10.1.0"
+    "unified": "^11.0.0"
   },
   "devDependencies": {
     "@milkdown/prose": "workspace:*"
